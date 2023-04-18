@@ -1,0 +1,15 @@
+# Ignore system files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+
+# Ignore virtual environments
+venv/
+env/
+.virtualenv/
+
+# Ignore project-specific files
+string_literals.json
